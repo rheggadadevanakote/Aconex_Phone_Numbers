@@ -24,9 +24,9 @@ All punctuation and whitespace should be ignored in both phone numbers and the
 dictionary file. The program should not be case sensitive, letting "a" == "A". Output should
 be capital letters and digits separated at word boundaries with a single dash (-), one
 possible word encoding per line. For example, if your program is fed the number:
-! 2255.63
+2255.63
 One possible line of output is
-! CALL-ME
+CALL-ME
 According to my dictionary.
 
 The number encoding on the phone the program will use is:
@@ -35,6 +35,7 @@ DIGIT CHARACTERS
 3 D E F
 4 G H I
 5 J K L
+
 DIGIT CHARACTERS
 6 M N O
 7 P Q R S
